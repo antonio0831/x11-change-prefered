@@ -1,1 +1,3 @@
-# x11-change-prefered
+# This changes the prefered refresh rate on x11
+
+### This project aims to solve fullscreen apps on gnome defaults to the lowest monitor refresh rate due to bad monitor config on X11
