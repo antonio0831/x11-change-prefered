@@ -2,7 +2,7 @@
 
 **Section "Screen"**
 
-```Option         "metamodes" "[name] +0+0 {viewportin=<hdpi>x<vdpi>, ForceCompositionPipeline=On}"```
+```Option         "metamodes" "[name] +0+0 {viewportin=<hdpi>x<vdpi>}"```
 
 **Note: You should only use viewportin if you are using fractional scaling**
 
