@@ -6,6 +6,8 @@
 
 **Note: You should only use viewportin if you are using fractional scaling**
 
+*PS: the use of force composition pipeline might break fullscreen applications, potentially causing lagging/kernel panic.*
+
 **This option must be present and is essential for operation**
 
 
